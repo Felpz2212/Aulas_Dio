@@ -1,4 +1,4 @@
-package Java.Dio.Exemplo;
+package Java.Dio.Exemplo.List;
 
 import java.util.ArrayList;
 import java.util.Collections;
