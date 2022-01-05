@@ -7,6 +7,8 @@ import java.util.Set;
 public class ExemploHashSet {
     public static void main(String[] args) {
 
+        //Não Garante Ordem de Inserção
+
         Set<Double> notasAlunos = new HashSet<>(); //Cria o set
 
         //Adiciona as notas no set
