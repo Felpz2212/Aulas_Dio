@@ -40,6 +40,9 @@ public class ComparatorsExampleList {
         System.out.println(estudantes);
 
         Collections.sort(estudantes); //Collections sort funciona pois a classe estudante implementa a interface comparator
+        //No método acima a regra de ordenação foi definida na classe estudante dentro do compareTo
+
+
 
         System.out.println("-------------Ordem Collections----------");
         System.out.println(estudantes);
